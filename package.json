@@ -1,14 +1,14 @@
 {
   "name": "hg-textarea",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![build status](https://secure.travis-ci.org/twilson63/hg-textarea.png)](http://travis-ci.org/twilson63/hg-textarea)",
   "main": "index.js",
   "scripts": {
     "test": "tap test"
   },
   "keywords": [],
   "author": "Tom",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "capitalize": "^0.5.0",
     "virtual-dom": "^2.0.1",
@@ -16,5 +16,16 @@
   },
   "devDependencies": {
     "tap": "^0.7.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twilson63/hg-textarea.git"
+  },
+  "bugs": {
+    "url": "https://github.com/twilson63/hg-textarea/issues"
+  },
+  "homepage": "https://github.com/twilson63/hg-textarea"
 }
