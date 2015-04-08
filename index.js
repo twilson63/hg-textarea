@@ -8,7 +8,7 @@
 //   textarea('comments')
 // ])
 //
-var h = require('virtual-dom/h')
+var h = require('mercury').h
 var capitalize = require('capitalize')
 var xtend = require('xtend')
 

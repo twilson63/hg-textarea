@@ -11,10 +11,10 @@
   "license": "MIT",
   "dependencies": {
     "capitalize": "^0.5.0",
-    "virtual-dom": "^2.0.1",
     "xtend": "^4.0.0"
   },
   "devDependencies": {
+    "mercury": "^14.0.0",
     "tap": "^0.7.1"
   },
   "directories": {
